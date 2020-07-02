@@ -292,7 +292,7 @@ extension SearchViewController: FromListener {
                     self.endPointsArray.append(item)
                 }
                 self.toButton.isEnabled = true
-                self.toLabel.text = "Пункт прибытия"
+                self.toLabel.text = Locale.current.languageCode! != "ru" ? "Arrive station" : "Пункт прибытия"
                 self.toLabel.textColor = self.fromToUnselectedColor
             }else {
                 print("Не могу перевести в массив")
