@@ -1,4 +1,5 @@
 # Автовокзал
+<img width="954" height="664" alt="Screenshot 2026-01-22 at 11 27 38" src="https://github.com/user-attachments/assets/37280f1b-25ca-48c6-b0dc-1dea40212c4f" />
 
 Приложение для покупки билетов на междугородние автобусные рейсы.
 
